@@ -54,6 +54,11 @@ body {
     float: left;
 }
 
+.web_name_left {
+    width: 200px;
+    float: left;
+}
+
 .logo_right {
     width: 300px;
     float: right;
