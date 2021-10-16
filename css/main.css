@@ -54,6 +54,11 @@ body {
     float: left;
 }
 
+.logo_left img {
+    width: 80px;
+    height: 80px;
+}
+
 .logo_right {
     width: 300px;
     float: right;
@@ -68,7 +73,8 @@ body {
 
 .family_tree {
     margin-top: 20px;
-    font-size: 30px;
+    font-size: 35px;
+    margin-left: -110px;
 }
 
 .logo_right img {
