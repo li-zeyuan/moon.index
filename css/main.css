@@ -333,3 +333,9 @@ body {
     line-height: 25px;
     text-indent: 2em;
 }
+
+.text-color  {
+    margin-top: 20px;
+    font-size: 10px;
+    margin-left: 600px;
+}
