@@ -334,8 +334,7 @@ body {
     text-indent: 2em;
 }
 
-.text-color  {
-    margin-top: 20px;
+.s-bottom-layer-content  {
     font-size: 10px;
-    margin-left: 600px;
+    text-align:center
 }
